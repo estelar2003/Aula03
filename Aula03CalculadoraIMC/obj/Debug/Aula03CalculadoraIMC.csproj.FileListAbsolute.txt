@@ -1,0 +1,6 @@
+C:\Users\stella.gmendonca\source\repos\Aula03CalculadoraIMC\Aula03CalculadoraIMC\bin\Debug\Aula03CalculadoraIMC.exe.config
+C:\Users\stella.gmendonca\source\repos\Aula03CalculadoraIMC\Aula03CalculadoraIMC\bin\Debug\Aula03CalculadoraIMC.exe
+C:\Users\stella.gmendonca\source\repos\Aula03CalculadoraIMC\Aula03CalculadoraIMC\bin\Debug\Aula03CalculadoraIMC.pdb
+C:\Users\stella.gmendonca\source\repos\Aula03CalculadoraIMC\Aula03CalculadoraIMC\obj\Debug\Aula03CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Aula03CalculadoraIMC\Aula03CalculadoraIMC\obj\Debug\Aula03CalculadoraIMC.exe
+C:\Users\stella.gmendonca\source\repos\Aula03CalculadoraIMC\Aula03CalculadoraIMC\obj\Debug\Aula03CalculadoraIMC.pdb
